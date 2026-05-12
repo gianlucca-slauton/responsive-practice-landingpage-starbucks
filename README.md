@@ -18,11 +18,14 @@ Todos os direitos de marcas e referências visuais pertencem aos seus respectivo
 
 <br>
 
-<img width="369" height="885" alt="1" src="https://github.com/user-attachments/assets/fefaa200-d1ad-4751-9aaf-1ae4ff2a0820" />
+<img align="left" padding-right:20px width="284" height="681" alt="1" src="https://github.com/user-attachments/assets/fefaa200-d1ad-4751-9aaf-1ae4ff2a0820" />
 
-<img width="369" height="774" alt="2" src="https://github.com/user-attachments/assets/5d309619-f8a0-4502-b4f3-b75225e1d022" />
+<img padding-bottom:20px width="284" height="595" alt="2" src="https://github.com/user-attachments/assets/5d309619-f8a0-4502-b4f3-b75225e1d022" />
+
 
 ---
+
+<br>
 
 ## What I practiced | O que foi praticado
 
